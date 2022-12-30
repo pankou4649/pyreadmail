@@ -3,10 +3,10 @@ import imaplib
 import email
 
 #credentials
-username ="pankou4test@gmail.com"
+username ="panksssstest@gmail.com"
 
 #generated app password
-app_password= "dswzcqojatsxhyqt"
+app_password= "ffffff"
 
 # https://www.systoolsgroup.com/imap/
 gmail_host= 'imap.gmail.com'
